@@ -17,7 +17,7 @@ button {
 }
 
 #input {
-  border-color: #0226b8;
+  border-color: red;
   background-color: black;
   color: white;
 
@@ -34,4 +34,17 @@ button {
   width: 400px;
   transform: rotate(300deg);
   z-index: 0;
+}
+
+#img-1 img {
+  transform: rotate(50deg);
+  position: absolute;
+  top: 1200px;
+}
+
+#img-2 img {
+
+  position: absolute;
+  top: 500px;
+  left: 300px;
 }
