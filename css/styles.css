@@ -3,6 +3,8 @@ body {
   font-size: 19px;
   color: white;
   background-color: black;
+  background-image: url(https://thenypost.files.wordpress.com/2018/07/shutterstock_1044142519.jpg?quality=90&strip=all);
+  background-repeat: no-repeat;
   z-index: 5;
 }
 
